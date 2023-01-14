@@ -20,11 +20,12 @@ a{
     border-radius: 0px;
     padding: 10px;
     transition: all 250ms;
+    border: 1px solid rgb(45, 83, 121);
 
 }
 .navel:hover{
     border-radius: 10px;
-    background-color: rgb(54, 90, 162);
+    border: 1px solid black;
 }
 #title{
     color: white;
